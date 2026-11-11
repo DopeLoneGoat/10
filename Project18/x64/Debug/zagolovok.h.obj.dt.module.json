@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project18\\x64\\Debug\\zagolovok.obj",
+            "outputs": [
+                "Project18\\x64\\Debug\\zagolovok.h.obj.dt.module.json",
+                "Project18\\x64\\Debug\\zagolovok.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

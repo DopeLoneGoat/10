@@ -1,0 +1,5 @@
+﻿  labaa10.c
+C:\Users\student\Desktop\Project18\labaa10.c(33,32): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\student\Desktop\Project18\labaa10.c(37,32): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\student\Desktop\Project18\labaa10.c(14,9): warning C4101: b: неиспользованная локальная переменная
+  Project18.vcxproj -> C:\Users\student\Desktop\Project18\x64\Debug\Project18.exe
